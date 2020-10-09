@@ -4,3 +4,6 @@
 [submodule "Django"]
 	path = Django
 	url = https://github.com/Aschonn/Django.git
+[submodule "Flask"]
+	path = Flask
+	url = https://github.com/Aschonn/Flask.git
